@@ -4,7 +4,6 @@ A collection of clean code best practices
 ### Why Clean Code?
 
 ````
-- To build high quality, maintainable, scalable and working software products.
 - Cost of owning a messy code is high.
 - Bad code eventually brings a product down, because during further development, productivity gradually approaches zero.
 - The only way to go fast is to keep the code as clean as possible.
