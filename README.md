@@ -19,9 +19,9 @@ A collection of clean code best practices
 - Always looks like it was written by someone who cares.
 - Has minimal dependencies to ease maintenance.
 - Has reduced duplication.
-- Complete error handling.
-- Performance close to optimal so as not to tempt people to make the code messy with unprincipled optimizations. 
+- Performance close to optimal. 
 - Express all design ideas that are in the system.
+- Complete error handling.
 - That runs all the tests.
 ````
 ### How to Implement Clean Coding Design?
