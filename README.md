@@ -28,7 +28,7 @@ A collection of clean code best practices
 ````
 - Domain-driven Design
 - System Design
-- Test-driven Development(TDD-Integrated, Acceptance, Unit Tests)
+- Test-driven Development(TDD-Integration, Acceptance, Unit Tests)
 - Behavior-driven Development(BDD) 
 - Refactoring
 ````
