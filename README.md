@@ -22,7 +22,7 @@ A collection of clean code best practices
 - Performance close to optimal. 
 - Express all design ideas that are in the system.
 - Complete error handling.
-- That runs all the tests.
+- Runs all the tests.
 ````
 
 
