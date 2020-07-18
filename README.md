@@ -24,13 +24,5 @@ A collection of clean code best practices
 - Complete error handling.
 - That runs all the tests.
 ````
-### How to Implement Clean Coding Design?
-````
-- Domain-driven Design
-- System Design
-- Test-driven Development(TDD-Integration, Acceptance, Unit Tests)
-- Behavior-driven Development(BDD) 
-- Refactoring
-````
 
 
